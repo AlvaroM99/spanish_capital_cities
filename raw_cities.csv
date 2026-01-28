@@ -1,53 +1,53 @@
-city_id,city_name,latitude,longitude,population,is_coastal
-1,Madrid,40.41,-3.70,3266126,0
-2,Barcelona,41.38,2.17,1636762,1
-3,Valencia,39.46,-0.37,794288,1
-4,Zaragoza,41.64,-0.88,673547,0
-5,Sevilla,37.38,-5.98,693229,0
-6,Málaga,36.72,-4.42,574654,1
-7,Murcia,37.99,-1.13,459403,0
-8,Palma de Mallorca,39.56,2.65,416065,1
-9,Las Palmas de Gran Canaria,28.12,-15.43,379925,1
-10,Alicante,38.34,-0.48,352889,1
-11,Bilbao,43.26,-2.93,346903,1
-12,Córdoba,37.88,-4.77,325701,0
-13,Valladolid,41.65,-4.72,298412,0
-14,Vitoria,42.84,-2.67,251774,0
-15,A Coruña,43.36,-8.41,245711,1
-16,Granada,37.17,-3.59,232462,0
-17,Oviedo,43.36,-5.84,219686,0
-18,Santa Cruz de Tenerife,28.46,-16.25,207312,1
-19,Pamplona,42.81,-1.64,211256,0
-20,Almería,36.83,-2.46,200753,1
-21,San Sebastián,43.31,-1.98,187415,1
-22,Burgos,42.34,-3.69,175821,0
-23,Albacete,38.99,-1.85,173329,0
-24,Santander,43.46,-3.80,172539,1
-25,Castellón de la Plana,39.98,-0.05,171728,1
-26,Logroño,42.46,-2.44,151136,0
-27,Badajoz,38.87,-6.97,150702,0
-28,Salamanca,40.97,-5.66,144228,0
-29,Huelva,37.26,-6.94,143663,1
-30,Lérida,41.61,0.62,138956,0
-31,Tarragona,41.11,1.24,134515,1
-32,León,42.59,-5.56,124303,0
-33,Jaén,37.77,-3.78,116782,0
-34,Cádiz,36.52,-6.28,111811,1
-35,Orense,42.33,-7.86,105233,0
-36,Gerona,41.97,2.82,101852,0
-37,Lugo,43.01,-7.55,98276,0
-38,Cáceres,39.47,-6.37,96126,0
-39,Guadalajara,40.63,-3.16,87064,0
-40,Melilla,35.29,-2.93,86487,1
-41,Toledo,39.86,-4.02,85449,0
-42,Ceuta,35.88,-5.31,84777,1
-43,Pontevedra,42.43,-8.64,83029,1
-44,Palencia,42.00,-4.52,77090,0
-45,Ciudad Real,38.98,-3.92,75504,0
-46,Zamora,41.50,-5.74,65988,0
-47,Ávila,40.65,-4.70,58369,0
-48,Huesca,42.13,-0.40,55217,0
-49,Cuenca,40.07,-2.13,53429,0
-50,Segovia,40.94,-4.10,52057,0
-51,Soria,41.76,-2.46,40750,0
-52,Teruel,40.34,-1.10,36713,0
+city_code,Municipio,Latitud,Longitud
+MAD,Madrid,40.41,-3.70
+BCN,Barcelona,41.38,2.17
+VLC,Valencia,39.46,-0.37
+ZGZ,Zaragoza,41.64,-0.88
+SVQ,Sevilla,37.38,-5.98
+AGP,Málaga,36.72,-4.42
+MUR,Murcia,37.99,-1.13
+PMI,Palma de Mallorca,39.56,2.65
+LPA,Las Palmas de Gran Canaria,28.12,-15.43
+ALC,Alicante,38.34,-0.48
+BIO,Bilbao,43.26,-2.93
+COR,Córdoba,37.88,-4.77
+VLL,Valladolid,41.65,-4.72
+VIT,Vitoria,42.84,-2.67
+ACU,A Coruña,43.36,-8.41
+GRA,Granada,37.17,-3.59
+OVI,Oviedo,43.36,-5.84
+TFN,Santa Cruz de Tenerife,28.46,-16.25
+PAM,Pamplona,42.81,-1.64
+ALM,Almería,36.83,-2.46
+SSN,San Sebastián,43.31,-1.98
+BUR,Burgos,42.34,-3.69
+ALB,Albacete,38.99,-1.85
+SDR,Santander,43.46,-3.80
+CAS,Castellón de la Plana,39.98,-0.05
+LOG,Logroño,42.46,-2.44
+BDJ,Badajoz,38.87,-6.97
+SAL,Salamanca,40.97,-5.66
+HUE,Huelva,37.26,-6.94
+LER,Lérida,41.61,0.62
+TAR,Tarragona,41.11,1.24
+LEO,León,42.59,-5.56
+JAE,Jaén,37.77,-3.78
+CAD,Cádiz,36.52,-6.28
+ORE,Orense,42.33,-7.86
+GER,Gerona,41.97,2.82
+LUG,Lugo,43.01,-7.55
+CAC,Cáceres,39.47,-6.37
+GUA,Guadalajara,40.63,-3.16
+MEL,Melilla,35.29,-2.93
+TOL,Toledo,39.86,-4.02
+CEU,Ceuta,35.88,-5.31
+PON,Pontevedra,42.43,-8.64
+PAL,Palencia,42.00,-4.52
+CRV,Ciudad Real,38.98,-3.92
+ZAM,Zamora,41.50,-5.74
+AVI,Ávila,40.65,-4.70
+HUA,Huesca,42.13,-0.40
+CUE,Cuenca,40.07,-2.13
+SEG,Segovia,40.94,-4.10
+SOR,Soria,41.76,-2.46
+TER,Teruel,40.34,-1.10
